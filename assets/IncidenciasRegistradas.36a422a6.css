@@ -1,0 +1,1 @@
+.table-header{display:flex;align-items:center;justify-content:space-between}@media screen and (max-width: 960px){.table-header{align-items:start}}.product-image{width:50px;box-shadow:0 3px 6px #00000029,0 3px 6px #0000003b}.p-dialog .product-image{width:50px;margin:0 auto 2rem;display:block}.confirmation-content{display:flex;align-items:center;justify-content:center}
