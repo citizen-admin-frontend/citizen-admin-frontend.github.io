@@ -1,0 +1,1 @@
+import{g as t,v as c,s as n,a as r}from"./Validator.e0ff0691.js";const m=async e=>{let s=await t(r,e);return s.sort((a,i)=>a.name>i.name?1:a.name===i.name?0:-1),s},l=async e=>{e.id||(e.active=!0),c(e,[{name:"name",descripcion:"Nombre",required:!0},{name:"active",descripcion:"Activo",required:!0}]),await n(r,e)};export{m as l,l as s};
