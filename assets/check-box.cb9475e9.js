@@ -1,4 +1,4 @@
-import{cb as l,g as u,d as n,e as o}from"./index.897b922b.js";const i=Object.freeze(Object.defineProperty({__proto__:null,default:l},Symbol.toStringTag,{value:"Module"}));var t={};const d=u(i);/*!
+import{cb as l,g as u,d as n,e as o}from"./index.b67f4c45.js";const i=Object.freeze(Object.defineProperty({__proto__:null,default:l},Symbol.toStringTag,{value:"Module"}));var t={};const d=u(i);/*!
  * devextreme-vue
  * Version: 22.1.5
  * Build date: Fri Sep 02 2022

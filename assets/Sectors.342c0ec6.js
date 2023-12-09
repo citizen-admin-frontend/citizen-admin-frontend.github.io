@@ -1,1 +1,0 @@
-import{g as t,v as c,s as o,r as n,a as s}from"./ui.popup.d3c8699c.js";const v=async e=>{let a=await t(s,e);return a.sort((r,i)=>r.name>i.name?1:r.name===i.name?0:-1),a},l=async e=>{e.id||(e.active=!0),c(e,[{name:"name",descripcion:"Nombre",required:!0},{name:"active",descripcion:"Activo",required:!0}]),await o(s,e)},u=async e=>{await n(s,e)};export{v as l,u as r,l as s};
